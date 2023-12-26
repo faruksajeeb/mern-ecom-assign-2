@@ -29,7 +29,7 @@ app.use(limiter);
 
 // Database Connection
 // let URI="mongodb+srv://<username>:<password>@cluster0.7uslu.mongodb.net/CRUD4";
-// let OPTION={user:'testuser7777',pass:'testuser7777',autoIndex:true};
+// let OPTION={user:'',pass:'',autoIndex:true};
 // mongoose.connect(URI,OPTION).then((res)=>{
 //     console.log("Success")
 // }).catch((err)=>{
